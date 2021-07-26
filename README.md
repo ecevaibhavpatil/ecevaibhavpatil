@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ecevaibhavpatil
+- 👋 Hi, I’m vaibhav patil
 - 👀 I’m interested in coding, open source electronics hardware and software
 - 🌱 I’m currently learning data structures and C++
 - 💞️ I’m looking to collaborate on open source electronics projects
